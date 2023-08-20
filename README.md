@@ -4,6 +4,7 @@ The client, DrivePass, aspired to establish an educational online training syste
 
 (2)What did you do particularly well?
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+One area in which I excelled was the presentation of the project and the detailed descriptions, answers, and rationales provided in my work. However, if I were to select one aspect of my work for revision, it would be the need to further elaborate on my answers and enhance the quality of the models developed for the project. It is noteworthy that I incurred a significant point deduction due to insufficiently expanding upon my ideas. The refinement of my academic writing required additional rounds of revision and thorough review to achieve a level of presentation suitable for an academic context. In hindsight, allocating more time for thorough proofreading and seeking feedback from peers or mentors would have greatly contributed to enhancing the overall quality of my projects. The corrections I am currently implementing serve not only to expand upon my initial response but also to underscore the importance of these improvements.
 
 (3)How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
